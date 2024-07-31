@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
-<h3 align="center">A passionate full stack android and iOS develoepr from Bangladesh.</h3>
+<h3 align="center">I am a motivated Software Engineer specializing in Android and iOS development. Seeking to apply my skills in creating powerful, user-friendly mobile apps. Eager to contribute technical expertise and creative problem-solving to a dynamic team. Committed to delivering high-quality code and exceptional user experiences that drive company success in the competitive mobile app market.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifuljava&label=Profile%20views&color=0e75b6&style=flat" alt="arifuljava" /> </p>
 
